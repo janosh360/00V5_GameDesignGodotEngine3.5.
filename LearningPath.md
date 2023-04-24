@@ -7,6 +7,9 @@ https://gdquest.github.io/learn-gdscript/ in deze app kan je in een online GoDot
 ## Godot Gamedesign Beginners Path
 Als je de basics een beetje weet is het handig om het learningpath op deze site te volgen: https://www.gdquest.com/tutorial/godot/learning-paths/beginner/ . Je maakt grotere stappen en vorderingen als je steeds kleine stukken code schrijft. Het belangrijkste in deze fase is om gewend te raken aan de Godot Engine en de taal, GDScript. Vooralsnog werken wij bij het schrijven van deze instructie nog met de oude versie 3.5.
 
+## Complete cursus 2D Game
+Heb je first 2d Game op Godot Engine al gemaakt? Dan heb je een leuke Dodge The Geeks. In deze tutorial leer je nog meer basics voor een 2D game: https://www.gdquest.com/tutorial/godot/2d/your-first-game/ . Ga hier lekker mee aan de slag. Houd ook op papier een ideeenschrift bij!
+
 ## Handige sites en Youtube kanalen
 * https://gdquest.github.io
 * https://gdquest.github.io/learn-gdscript/
