@@ -18,5 +18,5 @@ Heb je first 2d Game op Godot Engine al gemaakt? Dan heb je een leuke Dodge The 
 ## Mijn eigen ervaringen
 Als docent is het soms lastig te checken of de leerlingen het werk zelf gemaakt hebben. De volledige source codes van de tutorials zijn in GitHub te vinden. Deze spellen zullen daarom altijd een uitgangspunt zijn voor het eigen werk. 
 
-###minimale aanpassingen aan doorlopen tutorials:
+### Minimale aanpassingen aan doorlopen tutorials:
 
