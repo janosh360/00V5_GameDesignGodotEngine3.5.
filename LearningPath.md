@@ -10,7 +10,7 @@ Als je de basics een beetje weet is het handig om het learningpath op deze site 
 ## Complete cursus 2D Game
 Heb je first 2d Game op Godot Engine al gemaakt? Dan heb je een leuke Dodge The Geeks. In deze tutorial leer je nog meer basics voor een 2D game: https://www.gdquest.com/tutorial/godot/2d/your-first-game/ . Ga hier lekker mee aan de slag. Houd ook op papier een ideëenschrift bij! Trouwens als je even een path teruggaat in de link (https://www.gdquest.com/tutorial/godot/2d/) krijg je nog meer 2d Games tips. Mijn ervaring is dat deze tutorial beter te begrijpen is als je eerst de 2d Tutorial op de GodotEngine.org hebt doorlopen (https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html)
 
-Inmiddels hebben we een nieuwe versie van Godot en beveel ik deze referencemanual aan: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html#doc-gdscript
+Inmiddels hebben we een nieuwe versie van Godot en raad ik deze referencemanual aan: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html#doc-gdscript
 
 ## Handige sites en Youtube kanalen
 * https://gdquest.github.io
